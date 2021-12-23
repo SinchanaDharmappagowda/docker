@@ -1,0 +1,175 @@
+
+{
+    "questions": [{
+            "questionText": "Which Set class should be most popular in a multi-threading environment, considering performance constraint?",
+            "options": [{
+                    "text": " HashSet"
+                    
+                },
+                {
+                    "text": " ConcurrentSkipListSet",
+                    "correct": true
+                },
+                {
+                    "text": "LinkedHashSet"
+                },
+                {
+                    "text": " CopyOnWriteArraySet"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+        {
+            "questionText": "Which Map class should be most popular in a multi-threading environment, considering performance constraint?",
+            "options": [{
+                    "text": " Hashtable"
+                },
+                {
+                    "text": " CopyOnWriteMap",
+                    "correct": true
+                },
+                {
+                    "text": "ConcurrentHashMap"
+                },
+                {
+                    "text": "ConcurrentMap"
+
+                    
+                }
+            ],
+            "explanation": "enum is not used as a type in TypeScript"
+        },
+        {
+            "questionText": "Which allows the removal of elements from a collection?",
+            "options": [{
+                    "text": " Enumeration"
+                },
+                {
+                    "text": " Iterator"
+                   
+                },
+                {
+                    "text": "Both"
+                },
+                {
+                    "text": "All of the above",
+                    "correct": true
+                }
+            ],
+            "explanation": "interfaces are typically used to list the properties and methods for an object"
+        },
+        {
+            "questionText": "Which of the following option leads to the portability and security of Java?",
+            "options": [{
+                    "text": "Bytecode is executed by JVM",
+                    "correct": true
+                },
+                {
+                    "text": "The applet makes the Java code secure and portable"
+                   
+                },
+                {
+                    "text": "Use of exception handling"
+                },
+                {
+                    "text": "Dynamic binding between objects"
+                }
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        },
+        {
+            "questionText": "Which of the following is not a Java features?",
+            "options": [{
+                    "text": "Dynamic"
+                },
+                {
+                    "text": "Architecture Neutral"
+                },
+                {
+                    "text": "Use of pointers",
+                    "correct": true
+                },
+                {
+                    "text": "Object-oriented"
+                }
+            ],
+            "explanation": "a constructor is used by a class to take in parameters"
+        },
+        {
+            "questionText": "Which of the following tool is used to generate API documentation in HTML format from doc comments in source code?",
+            "options": [{
+                    "text": "javap tool"
+                },
+                {
+                    "text": "javaw command"
+                },
+                {
+                    "text": "Javadoc tool",
+                    "correct": true
+                },
+                {
+                    "text": "javah command"
+                    
+                }
+            ],
+            "explanation": "async is not used as an access modifier type in TypeScript"
+        },
+        {
+            "questionText": "Which component is used to compile, debug and execute the java programs?",
+            "options": [{
+                    "text": " JRE"
+                },
+                {
+                    "text": " JIT"
+                    
+                },
+                {
+                    "text": "JDK",
+                    "correct": true
+                },
+                {
+                    "text": " JVM"
+                }
+            ],
+            "explanation": "JDK is a core component of Java Environment and provides all the tools, executables and binaries required to compile, debug and execute a Java Program"
+        },
+        {
+            "questionText": "Which environment variable is used to set the java path?",
+            "options": [{
+                    "text": "MAVEN_HOME"
+                   
+                },
+                {
+                    "text": "CLASSPATH"
+                },
+                {
+                    "text": "JAVA"
+                },
+                {
+                    "text": " JAVA_HOME",
+                    "correct": true
+                }
+            ],
+            "explanation": "filter is a method used to conditionally create a new array"
+        },
+        {
+            "questionText": "Which of the following is not an OOPS concept in Java?",
+            "options": [{
+                    "text": "Polymorphism"
+                    
+                },
+                {
+                    "text": "Inheritance"
+                },
+                {
+                    "text": " Compilation",
+                    "correct": true
+                },
+                {
+                    "text": "Encapsulation"
+                }
+            ],
+            "explanation": "this.propertyName is the way to access a specific property within a class"
+        }
+    ]
+}

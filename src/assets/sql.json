@@ -1,0 +1,173 @@
+
+{
+    "questions": [{
+            "questionText": "You can add a row using SQL in a database with which of the following?",
+            "options": [{
+                    "text": "ADD"
+                    
+                },
+                {
+                    "text": "CREATE"
+                },
+                {
+                    "text": "INSERT",
+                    "correct": true
+                    
+                },
+                {
+                    "text": "MAKE"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+        {
+            "questionText": "The command to remove rows from a table 'CUSTOMER' is:",
+            "options": [{
+                    "text": "REMOVE FROM CUSTOMER ..."
+                },
+                {
+                    "text": "DROP FROM CUSTOMER ..."
+                },
+                {
+                    "text": "DELETE FROM CUSTOMER WHERE ...",
+                    "correct": true
+                },
+                {
+                    "text": "UPDATE FROM CUSTOMER ..."
+                    
+                }
+            ],
+            "explanation": "enum is not used as a type in TypeScript"
+        },
+        {
+            "questionText": "Which of the following is the original purpose of SQL?",
+            "options": [{
+                    "text": "Use classes."
+                },
+                {
+                    "text": "Use interfaces.",
+                    "correct": true
+                },
+                {
+                    "text": "Use enums."
+                },
+                {
+                    "text": "Use async/await."
+                }
+            ],
+            "explanation": "interfaces are typically used to list the properties and methods for an object"
+        },
+        {
+            "questionText": "Which of the following is the original purpose of SQL?",
+            "options": [{
+                    "text": "To specify the syntax and semantics of SQL data definition language"
+                },
+                {
+                    "text": "To specify the syntax and semantics of SQL manipulation language"
+                    
+                },
+                {
+                    "text": "To define the data structures"
+                },
+                {
+                    "text": "All of the above.",
+                    "correct": true
+                }
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        },
+        {
+            "questionText": "The wildcard in a WHERE clause is useful when?",
+            "options": [{
+                    "text": "An exact match is necessary in a SELECT statement."
+                   
+                },
+                {
+                    "text": "An exact match is not possible in a SELECT statement.",
+                    "correct": true
+                },
+                {
+                    "text": "An exact match is necessary in a CREATE statement."
+                },
+                {
+                    "text": "An exact match is not possible in a CREATE statement."
+                }
+            ],
+            "explanation": "a constructor is used by a class to take in parameters"
+        },
+        {
+            "questionText": "A view is which of the following?",
+            "options": [{
+                    "text": "A virtual table that can be accessed via SQL commands",
+                    "correct": true
+                },
+                {
+                    "text": "A virtual table that cannot be accessed via SQL commands"
+                },
+                {
+                    "text": "A base table that can be accessed via SQL commands"
+                },
+                {
+                    "text": "A base table that cannot be accessed via SQL commands"
+                    
+                }
+            ],
+            "explanation": "async is not used as an access modifier type in TypeScript"
+        },
+        {
+            "questionText": "The command to eliminate a table from a database is:",
+            "options": [{
+                    "text": "REMOVE TABLE CUSTOMER;"
+                },
+                {
+                    "text": "DROP TABLE CUSTOMER;",
+                    "correct": true
+                },
+                {
+                    "text": "DELETE TABLE CUSTOMER;"
+                },
+                {
+                    "text": "UPDATE TABLE CUSTOMER;"
+                }
+            ],
+            "explanation": "the export keyword allows for the information to be transmitted between files"
+        },
+        {
+            "questionText": "ON UPDATE CASCADE ensures which of the following?",
+            "options": [{
+                    "text": "Normalization"
+                    
+                },
+                {
+                    "text": "Data Integrity",
+                    "correct": true
+                },
+                {
+                    "text": "Materialized Views"
+                },
+                {
+                    "text": "All of the above."
+                }
+            ],
+            "explanation": "filter is a method used to conditionally create a new array"
+        },
+        {
+            "questionText": "SQL data definition commands make up a(n) ________ .",
+            "options": [{
+                    "text": "DDL",
+                    "correct": true
+                },
+                {
+                    "text": "DML"
+                },
+                {
+                    "text": "HTML"
+                },
+                {
+                    "text": "XML"
+                }
+            ],
+            "explanation": "this.propertyName is the way to access a specific property within a class"
+        }
+    ]
+}
